@@ -1,4 +1,37 @@
-# minima
+# minima fork
+
+## Design Goals
+
+### Requests
+* Portfolio Website
+* Assumes the user already knows the person somewhat and is investigating more.
+* Feels like you're checking a social media page, rather than an ad.
+* I always like learning new things and sharing the results/lessons with friends. A well incorporated blog is a must.
+* I would like to highlight other people's content. This could be through the blog or a dedicated feature. Something to keep in mind
+* I do coding, games, ui/ux, and art
+* I plan on doing web dev anyway, so what if there was an xray to the site.
+* Theme: Fake halloween spooky. Lots of shadows, gradients, and "actual" elevation rather than implied. Vaporwave is also cool. Something lighthearted a kid would like
+
+### Inspiration Bucket
+* https://ncase.me/ Straight to business, practical page I visit often despite being a portfolio page.
+* https://www.valvesoftware.com/en/ Same thing, company instead of individual
+* https://store.steampowered.com/sale/halloween2019 Look how spooky and 3d it is. Even got that zDog despite this particular one being pretty slow
+* https://devolverdigital.com/about Prety good about page. Was a little confused at first but like the concept
+* https://www.oracle.com/index.html Similar idea to above. More readable, but I dislike there's no hint that you can hover each panel
+* https://chucklefish.org/about/ A regular page all and all, but the things that aren't standard hit off really well.
+* http://0edit.com.au/ Each edition of work has an at a glance thumbnail, short interesting context, and immediately accessible to try out.
+* https://bluebottlegames.com/ Cool example of a nostalgic pallete and design while using more modern structure where it matters.
+* https://splatoon.nintendo.com/ Pretty good off-beat website. Store asthetic
+
+### Overall
+* Github pages is pretty trendy. It's free, supports Jekyll, and means the site is open source
+* Assuming the person already knows you is the key to making it not feel like an ad.
+* Projects should have a description, thumbnail and hover demo
+* Something nostalgic. Toy store? Convinience store?
+** amiibo packing for projects.
+** 
+
+## About
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
 
